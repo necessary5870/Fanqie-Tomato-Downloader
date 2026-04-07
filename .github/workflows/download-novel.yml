@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       novel_id:
-        description: '小说ID (从番茄小说URL中获取)'
+        description: '7602883350197439512'
         required: true
       threads:
         description: '下载线程数 (1-10)'
